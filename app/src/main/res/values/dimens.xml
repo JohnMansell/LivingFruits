@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="Image_Padding">8dp</dimen>
+    <dimen name="Image_Margin">8dp</dimen>
+
+    <dimen name="Price_Text_Size">20sp</dimen>
+    <dimen name="Price_Number_Size">30sp</dimen>
+
+    // Image Sizes
+    <dimen name="imageHeight">150dp</dimen>
+    <dimen name="imageWidth">150dp</dimen>
+</resources>
